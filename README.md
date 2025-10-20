@@ -2,7 +2,7 @@
 
 This project extracts your iPhone's SMS and iMessage data from a local backup and formats it for use with Large Language Models (LLMs).
 
-The scripts are designed to be easy to run and the output is chunked into smaller files to fit within the context window of models like GPT-3 (e.g., 1M tokens) or for use in training your own AI models.
+The scripts are designed to be easy to run and the output is chunked into smaller files to fit within the context window of models like Gemini (e.g., 1M tokens) or for use in training your own AI models.
 
 ## Features
 
